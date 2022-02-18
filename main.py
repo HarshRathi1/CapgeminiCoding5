@@ -1,6 +1,6 @@
 '''Two arrays
 Remove Duplicates arr1=[3,2]
-Find Median(Common elements) of two arrays'''
+Find Common Elements of two arrays'''
 arr1=[3,1,1,2]
 arr2=[4,3,3,2,1]
 a1=[]
